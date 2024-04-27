@@ -9,5 +9,5 @@
 - 🤔 I’m looking for help with Typescript.
 - 💬 Ask me about ReactJs/MERN
 - 📫 How to reach me: praneetkshd180@gmail.com
-- ⚡ Fun fact: I am Intrested in E-sports and love watching Anime.
+- ⚡ Fun fact: I am Interested in E-sports and love watching Anime.
 
